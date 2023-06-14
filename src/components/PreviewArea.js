@@ -77,7 +77,7 @@ const NewPreview = ({ items }) => {
 
     return (
         <div className="container">
-            <div className="buttons"> <button onClick= {handleNewTranslate} disabled={diablePlay}> Hello new </button> </div>
+            <div className="buttons"> <button onClick= {handleNewTranslate} disabled={diablePlay}> Play </button> </div>
             <div style={ styles }> <CatSprite /> </div>
         </div>
     );

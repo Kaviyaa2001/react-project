@@ -151,10 +151,7 @@ const ITEMS = [
     id: uuid(),
     content: 'Rotate'
   },
-  {
-    id: uuid(),
-    content: 'Quote'
-  }
+ 
 ];
 
 class DragAndDrop extends Component {
